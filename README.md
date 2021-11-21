@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantina Strantzali, Full Stack Web Developer Student
+- 👋 Hi, I’m Konstantina Strantzali, a Full Stack Web Developer Student.
 
 
 <!---
