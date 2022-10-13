@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantina, a Junior Full Stack Web Developer looking for my first role into tech.
+- 👋 Hi, I’m Konstantina, a Junior Full Stack Web Developer.
 
 
 <br>
