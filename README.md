@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantina, a Junior Full Stack Web Developer.
+- 👋 Hi, I’m Konstantina, a UX UI Designer with strong experience in Web Development.
 
 
 <br>
